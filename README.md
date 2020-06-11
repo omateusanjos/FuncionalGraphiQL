@@ -46,6 +46,15 @@ saldo: 	1000
   } 
 }
 
+Para checar o saldo:
+
+{ 
+  getSaldo(id: 1){
+    saldo
+  }
+}
+
+
 
 
 
